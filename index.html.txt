@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>NEXO AI 설치</title>
+</head>
+<body>
+  <h2>🛠 NEXO AI 설치</h2>
+  <p>Comma 3에서 이 버튼을 누르면 바로 설치됩니다.</p>
+  <a href="comma://install_repo?clone=https://github.com/m500dxp/BLACK_NEXO.git&branch=forNEXO">
+    <button style="font-size:20px;padding:10px 20px;">Comma 3에 설치하기</button>
+  </a>
+</body>
+</html>
